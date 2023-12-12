@@ -1,5 +1,5 @@
-[Link text](cg0.md 'Link title')
-
+[Link text](Introduction.md 'Link title')
+[Link text](Introduction.md 'Link title')
 
 # 0 . مقدمه:
 
